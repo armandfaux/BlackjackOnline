@@ -1,0 +1,122 @@
+body{
+	background-color: #07420A;
+	font-size: 2em;
+	font-family: Book Antiqua;
+	
+}
+
+.titre1{
+	color: Black;
+	font-size: 3em;
+	font-family: Book Antiqua;
+	font-weight: bold;
+}
+
+#Credits{
+	margin-left: 0.8em;
+}#Mise{
+	margin-left: 0.8em;
+}#Assurance{
+	margin-left: 0.8em;
+}#record{
+	margin-left: 5.1em;
+}#sabot{
+	position:absolute; left: 40em; top: 3em; z-index:1;
+}#sabot2{
+	font-family: Book Antiqua;
+	position:absolute; left: 42em; top: 4.8em; z-index:2;
+}
+
+
+
+#NewGameButton{
+	position:relative; margin-top: 0.3em; margin-left: 3em;
+}
+#RegleButton{
+	position:relative; margin-top: -1.78em; margin-left: 10em;
+}
+
+#AbandonnerButton{
+	position:absolute; top: 13em; left: 1em;
+}#CarteButton{
+	position:absolute; top: 15em; left: 1em;
+}#JeResteButton{
+	position:absolute; top: 17em; left: 1em;
+}#DoublerButton{
+	position:absolute; top: 19em; left: 1em;
+}#SplitButton{
+	position:absolute; top: 21em; left: 1em;
+}#AssuranceButton{
+	position:absolute; top: 23em; left: 1em;
+}#ValeurAsButton{
+	position:absolute; top: 13em; left: 15em;
+}
+
+#un{
+	position: absolute; top: 13.8em; left: 16.2em;
+}#onze{
+	position: absolute; top: 13.8em; left: 20.2em;
+}
+
+#spotA1{
+	position:absolute; top:12em; left:27em; z-index:2;
+}#spotA2{
+	position:absolute; top:13em; left:27em; z-index:3;
+}#spotA3{
+	position:absolute; top:14em; left:27em; z-index:4;
+}#spotA4{
+	position:absolute; top:15em; left:27em; z-index:5;
+}#spotA5{
+	position:absolute; top:16em; left:27em; z-index:6;
+}#spotA6{
+	position:absolute; top:17em; left:27em; z-index:7;
+}#spotA7{
+	position:absolute; top:18em; left:27em; z-index:8;
+}
+#Accolade1{
+	position:absolute; top:11em;  left:26.88em; z-index:1;
+}
+
+#spotB1{
+	position:absolute; top:12em; left:35em; z-index:2;
+}#spotB2{
+	position:absolute; top:13em; left:35em; z-index:3;
+}#spotB3{
+	position:absolute; top:14em; left:35em; z-index:4;
+}#spotB4{
+	position:absolute; top:15em; left:35em; z-index:5;
+}#spotB5{
+	position:absolute; top:16em; left:35em; z-index:6;
+}#spotB6{
+	position:absolute; top:17em; left:35em; z-index:7;
+}#spotB7{
+	position:absolute; top:18em; left:35em; z-index:8;
+}
+#Accolade2{
+	position:absolute; top:11em;  left:35em; z-index:1;
+}
+
+#croupier1{
+	position:absolute; top:3em; left:27em; z-index:1;
+}#croupier2{
+	position:absolute; top:3em; left:28.5em; z-index:2;
+}#croupier3{
+	position:absolute; top:3em; left:30em; z-index:3;
+}#croupier4{
+	position:absolute; top:3em; left:31.5em; z-index:4;
+}#croupier5{
+	position:absolute; top:3em; left:33em; z-index:5;
+}#croupier6{
+	position:absolute; top:3em; left:34.5em; z-index:6;
+}#croupier7{
+	position:absolute; top:3em; left:36em; z-index:7;
+}
+
+
+#compteur1{
+	font-family: Book Antiqua;
+	position:absolute; top: 14em; left: 24em;
+}#compteur2{
+	font-family: Book Antiqua;
+	position:absolute; top: 6em; left: 24em;
+}

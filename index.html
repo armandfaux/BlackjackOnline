@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+	<html>
+	
+<head>
+	<meta http-equiv="content-type" content="text/html; charset="utf-8" />
+	<title>BlackJack</title>
+	
+	<link rel="stylesheet" media="screen" type="text/css" href="styles/styleJeu.css">
+	
+</head>
+
+
+<body>
+
+	<div class="titre1">BLACKJACK</div>
+	
+	<div id="NewGameButton" style="width: 6em;" onclick="NewGame()"><img src='images/NewGameButton.png' style='height: 1.5em; width: 6em;'></div>
+	<div id="RegleButton" style="width: 6em;" onclick="window.open('server/rules.html', '_blank')"><img src='images/RegleButton.png' style='height: 1.5em; width: 6em;'></div>
+	
+	<div id="spotA1"></div> <div id="spotA2"></div> <div id="spotA3"></div> <div id="spotA4"></div> <div id="spotA5"></div> <div id="spotA6"></div> <div id="spotA7"></div>
+	<div id="spotB1"></div> <div id="spotB2"></div> <div id="spotB3"></div> <div id="spotB4"></div> <div id="spotB5"></div> <div id="spotB6"></div> <div id="spotB7"></div>
+	
+	<div id="sabot"></div>
+	<div id="sabot2"></div>
+	<div id="croupier1"></div> <div id="croupier2"></div> <div id="croupier3"></div> <div id="croupier4"></div> <div id="croupier5"></div> <div id="croupier6"></div> <div id="croupier7"></div> 
+	<div id="compteur1"></div>
+	<div id="compteur2"></div>
+	<div id="record"></div>
+	<div id="Accolade1"></div> <div id="Accolade2"></div>
+	<br>
+	<div id="Credits">Crédits : </div> <div id="Mise">Mise : </div> <div id="Assurance">Assurance : </div>
+
+	<div id="CarteButton" onclick="TirerCarte()">		</div>
+	<div id="JeResteButton" onclick="JeReste()">		</div>
+	<div id="DoublerButton" onclick="Doubler()">		</div>	
+	<div id="SplitButton" onclick="Split()">			</div>
+	<div id="AssuranceButton" onclick="Assurance()">	</div>
+	<div id="AbandonnerButton" onclick="Abandonner()">	</div>
+	
+	<div id="ValeurAsButton"></div>
+	<div id="un" onclick="AS1()"></div> <div id="onze" onclick="AS11()"></div>
+	
+	<div id="SendScore"><div>
+	
+	<script type="text/javascript" src="scripts/script.js"></script>
+	
+	<br><br><br><br><br><br><br><br><br><br>
+</body>
+	</html>

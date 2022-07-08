@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="303" width="208" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 167.08643 242.66748">
+<path stroke="#000" stroke-width=".5" d="m166.84 6.7634c0-3.7917-3.09-6.8909-6.87-6.8909l-152.85 0.00004c-3.7837 0-6.8637 3.0992-6.8637 6.8909l0.00003 229.12c0 3.79 3.08 6.89 6.86 6.89h152.85c3.78 0 6.87-3.1 6.87-6.89v-229.12 0.0068z" fill="#fff"/>
+<g id="e" fill="#e61408">
+<g id="a">
+<path id="b" fill="#e61408" d="m39.868 13.33c-4.308 0.009-7.811 3.691-7.782 8.208 0.06 9.58 12.092 16.508 15.639 24.074 3.547-7.566 15.604-14.494 15.664-24.074 0.029-4.517-3.474-8.199-7.782-8.208-4.307-0.009-7.869 3.657-7.882 8.183-0.013-4.526-3.55-8.192-7.857-8.183z"/>
+<use xlink:href="#b" transform="translate(0 61.236)"/>
+</g>
+<use xlink:href="#a" transform="matrix(-1 0 0 1 167.09 0)"/>
+<text transform="scale(.67172 1.4887)" style="letter-spacing:-.82324px" font-family="DejaVu Serif" font-size="16.682px" y="17.374985" x="12.317241" font-weight="bold">10</text>
+<use xlink:href="#b" transform="matrix(.29991 0 0 .30069 2.0553 25.429)"/>
+<use xlink:href="#b" transform="translate(35.806 30.617)"/>
+</g>
+<use xlink:href="#e" transform="matrix(-1 0 0 -1 167.09 242.66)"/>
+</svg>
