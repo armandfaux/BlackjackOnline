@@ -1,2 +1,4 @@
 # Blackjack
-Web Blackjack game, in JS
+Blackjack online (Javascript)
+
+https://armandfaux.github.io/Blackjack/
