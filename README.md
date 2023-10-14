@@ -1,5 +1,6 @@
 # Blackjack
-Blackjack singleplayer game \n
-Stack : JS, HTML/CSS \n
+Blackjack singleplayer game
+
+Stack : JS, HTML/CSS
 
 https://armandfaux.github.io/BlackjackOnline/
