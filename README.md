@@ -1,9 +1,9 @@
 <span style="color: green">
 
-# Blackjack
+# Blackjack Singleplayer Game
+
 </span>
-Blackjack singleplayer game
 
-Stack : JS, HTML/CSS
+#### Stack : JS, HTML/CSS
 
-https://armandfaux.github.io/BlackjackOnline/
+### *Play now >>> https://armandfaux.github.io/BlackjackOnline/*
